@@ -1,0 +1,33 @@
+Student Marks Ananlysis Project (Python)
+
+Project Description -
+
+Project Description
+
+The Student Marks Analysis System is a Python project built using NumPy and Pandas
+to analyze student performance from an Excel dataset. It calculates key statistics,
+assigns grades, identifies top performers, determines pass/fail status, and generates
+a detailed report, providing hands-on experience with data analysis and Excel file handling.
+
+Features-
+
+Read data from an Excel file
+Display the dataset
+Calculate total students, total marks, average, highest, and lowest marks
+Assign grades
+Determine pass/fail status
+Identify the topper
+Display the top 3 students
+Show grade distribution
+Generate a new Excel report (Student_Report.xlsx)
+
+Python Concepts Used-
+
+NumPy Arrays
+Pandas DataFrames
+Functions
+Conditional Statements
+Data Analysis
+Sorting & Filtering
+Excel File Handling
+Exporting Data to Excel
